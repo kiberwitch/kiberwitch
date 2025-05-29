@@ -1,10 +1,6 @@
 # 💻 <span style="color: #00ff00">Kiberwitch</span> 
 ### 🚀 Full-stack разработчик & Верстка по макету
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;PHP+%7C+Vue+%7C+Git;Figma+%7C+Вёрстка+под+ключ" alt="Технологии" />
-</div>
-
 ---
 
 ## 🛠 <span style="color: #00ff00">Технологии</span>
