@@ -32,9 +32,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kinerwitch&color=00ff00&style=flat-square" alt="Просмотры профиля" />
 </div>
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF00&vCenter=true&width=500&lines=👋+Привет,+я+Kiberwitch;💻+Full-stack+разработчик;🎨+Дизайнер+UI/UX;🚀+Vue+%7C+PHP+%7C+Git" alt="Анимированное приветствие">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk4dGJtY3FqYzN5Z3F6Z2VjZ3R4Y2VtYzB6bnRkdGJ0eGJ6d3B6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250">
-</div>
