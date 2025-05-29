@@ -1,7 +1,7 @@
 # 💻 <span style="color: #00ff00">Kiberwitch | Семён</span> 
 ### 🚀 Full-stack разработчик & Верстка по макету
 📍 Нижний Новгород  
-📂 Портфолио: [https://github.com/kiberwitch](https://github.com/kiberwitch)
+📂 Портфолио: [https://github.com/kiberwitch](https://github.com/kiberwitch?tab=repositories)
 
 ---
 
