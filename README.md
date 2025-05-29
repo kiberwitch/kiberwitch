@@ -28,7 +28,4 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kinerwitch&color=00ff00&style=flat-square" alt="Просмотры профиля" />
-</div>
+![Dancing Skeletons](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1xY2V2dG5mY2h1b2F6eG1qZzV5YnR0d2VtY3BqZzNybjB1eHZ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
