@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет, я [Твоё имя]! 👋  
+🚀 Full-stack разработчик | Python & JavaScript | Люблю автоматизацию  
 
-<!--
-**kiberwitch/kiberwitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Технологии  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
-Here are some ideas to get you started:
+## 🔥 Мои проекты  
+### 🎮 Игра на Unity  
+**Описание:** 2D-платформер с мультяшной графикой.  
+**Технологии:** C#, Unity, Aseprite  
+**Демо:** [Ссылка](https://example.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Gameplay GIF](/assets/gameplay.gif)  
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)  
+
+## 📫 Контакты  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/yournick)  
