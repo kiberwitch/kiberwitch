@@ -1,11 +1,18 @@
 # 💻 <span style="color: #00ff00">Kiberwitch | Семён</span> 
 ### 🚀 Full-stack разработчик & Верстка по макету
+📍 Нижний Новгород  
+📂 Портфолио: [https://github.com/kiberwitch](https://github.com/kiberwitch)
 
 ---
 
-## 🛠 <span style="color: #00ff00">Технологии</span>
+## 👨‍💻 <span style="color: #00ff00">О себе</span>
+Молодой и амбициозный разработчик с опытом создания современных и адаптивных веб-страниц. Активно развиваюсь в сфере веб-разработки и готов взяться за ваш проект, чтобы помочь воплотить ваши идеи в жизнь. Ответственно подхожу к задачам, соблюдаю сроки и всегда на связи.
+
+---
+
+## 🛠 <span style="color: #00ff00">Технологии и навыки</span>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,vue,git,figma&theme=dark&perline=7" alt="Иконки технологий" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,vue,git,figma,tailwind&theme=dark&perline=8" alt="Иконки технологий" />
 </div>
 
 ---
@@ -16,7 +23,35 @@
 |--------|----------|------------|------|
 | [🌐 Доработка сайта](https://github.com/kiberwitch/Vitaliti_Website) | Адаптивный сайт с формой обратной связи | HTML, CSS, JS, PHP | [Live Demo](https://kiberwitch.github.io/Vitaliti_Website/) |
 | [🛒 Интернет-магазин книжек](https://github.com/kiberwitch/Book_store) | Каталог товаров с корзиной | CSS, HTML, JS | [Live Demo](https://kiberwitch.github.io/Book_store/) |
-| [🎨 Сайт визитка](https://github.com/kiberwitch/Site_business_ard_lawyer_Michelson) | Продающий лединг |  HTML, CSS, JS,a | [Live Demo]() |
+| [🎨 Сайт визитка](https://github.com/kiberwitch/Site_business_ard_lawyer_Michelson) | Продающий лединг | HTML, CSS, JS | [Live Demo]() |
+
+---
+
+## 💼 <span style="color: #00ff00">Услуги</span>
+✅ Верстка сайтов по макетам (Figma, Photoshop, PSD)  
+✅ Адаптивная и кроссбраузерная верстка  
+✅ Разработка лендингов и SPA на Vue.js (Vue 3, Composition API)  
+✅ Использование Tailwind CSS для быстрой и удобной стилизации  
+✅ Небольшие доработки и исправления существующих проектов  
+
+### 🛠 Frontend:
+- HTML5, CSS3 (Flexbox, Grid, анимации)
+- JavaScript (базовые принципы работы)
+- Vue.js (Vue 3, Composition API, Vue Router)
+- Tailwind CSS
+- Адаптивная и мобильная верстка
+
+### 🎨 Дизайн и инструменты:
+- Figma, Photoshop (нарезка макетов)
+- Git
+
+---
+
+## 🌟 <span style="color: #00ff00">Почему я?</span>
+🔹 **Качество**: Чистая, семантическая верстка и аккуратный код  
+🔹 **Современные технологии**: Работаю с Vue.js и Tailwind CSS  
+🔹 **Сроки**: Соблюдаю дедлайны и держу в курсе прогресса  
+🔹 **Доступная цена**: Оптимальное соотношение цены и качества  
 
 ---
 
@@ -26,6 +61,3 @@
     <img src="https://img.shields.io/badge/KWORK-00FF00?style=for-the-badge&logoColor=black&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHoiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMTIgMkM2LjQ4NiAyIDIgNi40ODYgMiAxMnM0LjQ4NiAxMCAxMCAxMCAxMC00LjQ4NiAxMC0xMFMxNy41MTQgMiAxMiAyem0wIDE4YTggOCAwIDExMC0xNiA4IDggMCAwMTAgMTZ6IiBmaWxsPSIjMDBmZjAwIi8+PC9zdmc+" alt="Kwork" width="150"/>
   </a>
 </div>
-
----
-![Dancing Skeletons](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1xY2V2dG5mY2h1b2F6eG1qZzV5YnR0d2VtY3BqZzNybjB1eHZ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
