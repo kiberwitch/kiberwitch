@@ -24,7 +24,7 @@
 | [🌐 Доработка сайта](https://github.com/kiberwitch/Vitaliti_Website) | Адаптивный сайт с формой обратной связи | HTML, CSS, JS, PHP | [Live Demo](https://kiberwitch.github.io/Vitaliti_Website/) |
 | [🛒 Интернет-магазин книжек](https://github.com/kiberwitch/Book_store) | Каталог товаров с корзиной | CSS, HTML, JS | [Live Demo](https://kiberwitch.github.io/Book_store/) |
 | [🎨 Сайт визитка](https://github.com/kiberwitch/Site_business_ard_lawyer_Michelson) | Продающий лединг | HTML, CSS, JS | [Live Demo]() |
-| [✨ Современный Лединг](https://github.com/kiberwitch/Vue+Tailwind) | Лединг с возможностью доработкой | HTML, CSS, JS, Vue, Tailwind | [Live Demo](https://kiberwitch.github.io/Vue-Tailwind/) |
+| [✨ Современный Лединг](https://github.com/kiberwitch/Vue-Tailwind) | Лединг с возможностью доработкой | HTML, CSS, JS, Vue, Tailwind | [Live Demo](https://kiberwitch.github.io/Vue-Tailwind/) |
 
 ---
 
