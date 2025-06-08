@@ -12,7 +12,7 @@
 
 ## 🛠 <span style="color: #00ff00">Технологии и навыки</span>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,vue,git,figma,tailwind&theme=dark&perline=8" alt="Иконки технологий" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,vue,git,postgres,figma,tailwind&theme=dark&perline=8" alt="Иконки технологий" />
 </div>
 
 ---
