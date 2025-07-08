@@ -19,13 +19,16 @@
 
 ## 🔥 <span style="color: #00ff00">Лучшие проекты</span>
 
+Вот обновлённая таблица с добавлением вашего интернет-магазина на Vue 3 и другими проектами:
+
 | Проект | Описание | Технологии | Демо |
 |--------|----------|------------|------|
+| [🛍️ Интернет-магазин на Vue 3](https://github.com/kiberwitch/VueTailwind) | Полнофункциональный магазин кроссовок с корзиной, избранным и сортировкой | Vue 3, Pinia, Tailwind, Flowbite, Axios | [Live Demo](https://kiberwitch.github.io/VueTailwind/) |
 | [🌐 Доработка сайта](https://github.com/kiberwitch/Vitaliti_Website) | Адаптивный сайт с формой обратной связи | HTML, CSS, JS, PHP | [Live Demo](https://kiberwitch.github.io/Vitaliti_Website/) |
-| [🛒 Интернет-магазин книжек](https://github.com/kiberwitch/Book_store) | Каталог товаров с корзиной | CSS, HTML, JS | [Live Demo](https://kiberwitch.github.io/Book_store/) |
-| [🎨 Сайт визитка](https://github.com/kiberwitch/Site_business_ard_lawyer_Michelson) | Продающий лединг | HTML, CSS, JS | [Live Demo]() |
-| [✨ Современный Лединг](https://github.com/kiberwitch/Vue-Tailwind) | Лединг с возможностью доработкой | HTML, CSS, JS, Vue, Tailwind | [Live Demo](https://kiberwitch.github.io/Vue-Tailwind/) |
-| [✅ Цветочный магазин](https://github.com/kiberwitch/Petalia-flower-shop) | Лединг с возможностью доработкой | HTML, CSS, JS, Vue, Tailwind | [Live Demo](https://kiberwitch.github.io/Petalia-flower-shop/) |
+| [📚 Интернет-магазин книг](https://github.com/kiberwitch/Book_store) | Каталог товаров с корзиной | CSS, HTML, JS | [Live Demo](https://kiberwitch.github.io/Book_store/) |
+| [⚖️ Сайт-визитка юриста](https://github.com/kiberwitch/Site_business_ard_lawyer_Michelson) | Продающий лендинг | HTML, CSS, JS | [Live Demo]() |
+| [🚀 Современный лендинг](https://github.com/kiberwitch/Vue-Tailwind) | Лендинг с возможностью доработки | Vue, Tailwind | [Live Demo](https://kiberwitch.github.io/Vue-Tailwind/) |
+| [💐 Цветочный магазин](https://github.com/kiberwitch/Petalia-flower-shop) | Лендинг для флористики | Vue, Tailwind | [Live Demo](https://kiberwitch.github.io/Petalia-flower-shop/) |
 
 ---
 
