@@ -57,10 +57,6 @@
 🔹 **Доступная цена**: Оптимальное соотношение цены и качества  
 
 ---
-# 💰 <span style="color: #00ff00">Workzila</span>
-[![🚀 Перейти на Workzila](https://img.shields.io/badge/Workzila-Перейти-4CAF50?style=for-the-badge&logo=workzila&logoColor=ffffff)](https://work-zilla.com/portfolio/uLfvjB?ref=8576202&sub=portfolio&tgref=8576202)
-
----
 
 ## 💰 <span style="color: #00ff00">Kwork</span>
 <div align="center">
