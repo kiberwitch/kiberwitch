@@ -1,5 +1,5 @@
 # 💻 <span style="color: #00ff00">Kiberwitch | Семён</span> 
-### 🚀 Full-stack разработчик & Верстка по макету
+###  Full-stack разработчик 
 📍 
 📂 Портфолио: (http://sema1sji.beget.tech)
 
