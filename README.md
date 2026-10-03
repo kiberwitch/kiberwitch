@@ -26,6 +26,7 @@
 - SPA и личные кабинеты на Vue 3
 - Вёрстка по макетам Figma
 - CRM, боты и автоматизация
+- Деплой, настройка сервера и доменов
 - Доработка и ускорение существующих сайтов
 
 </td>
@@ -43,9 +44,22 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vue,js,tailwind,html,css,php&perline=6" height="64" alt="frontend"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,linux,git,figma&perline=6" height="64" alt="backend"/>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=vue,js,html,css,bootstrap,tailwind&perline=6" height="64" alt="Vue 3, JavaScript, HTML, CSS, Bootstrap, Tailwind"/>
+
+**Backend и базы данных**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,flask,postgres&perline=5" height="64" alt="PHP, Laravel, Python, Flask, PostgreSQL"/>
+
+**Деплой и сервер**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,figma&perline=5" height="64" alt="Docker, Nginx, Linux, Git, Figma"/>
+
+<br/>
+
+Настраиваю деплой под ключ: Nginx, SSL-сертификаты, домены, SMTP-почта и базовая защита сервера (UFW и др.).<br/>
+Работаю в основном с PostgreSQL, при необходимости быстро разбираюсь с другими базами и инструментами.
 
 </div>
 
