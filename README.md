@@ -56,11 +56,6 @@
 
 <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,figma&perline=5" height="64" alt="Docker, Nginx, Linux, Git, Figma"/>
 
-<br/>
-
-Настраиваю деплой под ключ: Nginx, SSL-сертификаты, домены, SMTP-почта и базовая защита сервера (UFW и др.).<br/>
-Работаю в основном с PostgreSQL, при необходимости быстро разбираюсь с другими базами и инструментами.
-
 </div>
 
 <br/>
