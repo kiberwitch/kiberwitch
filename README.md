@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1c1c1c,100:3d3d3d&height=220&section=header&text=%D0%94%D0%BE%D0%B1%D1%80%D0%BE%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%20GitHub%20%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%B0&fontSize=34&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=%D1%81%D0%B0%D0%B9%D1%82%D1%8B%20%C2%B7%20%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%C2%B7%20%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0b2e00,100:3cff00&height=200&section=header&text=KIBERWITCH&fontSize=56&fontColor=3cff00&fontAlign=50&fontAlignY=36&animation=fadeIn" width="100%" alt="banner"/>
 
-<a href="https://kwork.ru/user/kiberwitch"><img src="https://img.shields.io/badge/KWORK-000000?style=for-the-badge&logoColor=white" alt="Kwork"/></a>
-<a href="https://github.com/kiberwitch?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-<a href="https://kiberwitch.github.io/VueTailwind/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=3CFF00&center=true&vCenter=true&width=520&lines=%D0%A1%D0%B0%D0%B9%D1%82%D1%8B+%D0%B8+%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B8+%D0%BF%D0%BE%D0%B4+%D0%BA%D0%BB%D1%8E%D1%87;%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BD%D0%B0+Vue+3;CRM%2C+%D0%B1%D0%BE%D1%82%D1%8B+%D0%B8+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" alt="typing"/>
+
+<a href="https://kwork.ru/user/kiberwitch"><img src="https://img.shields.io/badge/KWORK-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a&logoColor=3cff00" alt="Kwork"/></a>
+<a href="https://github.com/kiberwitch?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0a0a0a?style=for-the-badge&logo=github&logoColor=3cff00" alt="Projects"/></a>
+<a href="https://kiberwitch.github.io/VueTailwind/"><img src="https://img.shields.io/badge/LIVE_DEMO-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=3cff00" alt="Demo"/></a>
 
 </div>
 
@@ -14,25 +16,22 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="62%" valign="middle">
 
 Привет! Я **Семён**, full-stack разработчик. Делаю сайты и веб-приложения, которые приводят бизнесу заявки, а не просто красиво выглядят.
 
 Беру задачу целиком: от структуры и вёрстки до формы, которая отправляет заявки в Telegram, на почту или в CRM.
 
-<div align="center">
-
-**Сайты и лендинги под ключ**<br/>
-**SPA и личные кабинеты на Vue 3**<br/>
-**Вёрстка по макетам Figma**<br/>
-**CRM, боты и автоматизация**
-
-</div>
+- Сайты и лендинги под ключ
+- SPA и личные кабинеты на Vue 3
+- Вёрстка по макетам Figma
+- CRM, боты и автоматизация
+- Доработка и ускорение существующих сайтов
 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiberwitch&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&langs_count=6" alt="Языки"/>
+<img src="https://github.com/kiberwitch.png" width="220" alt="avatar"/>
 
 </td>
 </tr>
@@ -44,20 +43,20 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/VUE_3-000000?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white"/>
-<img src="https://img.shields.io/badge/PINIA-000000?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/VUE_3-0a0a0a?style=for-the-badge&logo=vuedotjs&logoColor=3cff00"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-0a0a0a?style=for-the-badge&logo=javascript&logoColor=3cff00"/>
+<img src="https://img.shields.io/badge/TAILWIND-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=3cff00"/>
+<img src="https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=3cff00"/>
+<img src="https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css&logoColor=3cff00"/>
+<img src="https://img.shields.io/badge/PINIA-0a0a0a?style=for-the-badge&logo=vuedotjs&logoColor=3cff00"/>
 <br/>
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-0a0a0a?style=for-the-badge&logo=php&logoColor=3cff00"/>
+<img src="https://img.shields.io/badge/PYTHON-0a0a0a?style=for-the-badge&logo=python&logoColor=3cff00"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=3cff00"/>
+<img src="https://img.shields.io/badge/DOCKER-0a0a0a?style=for-the-badge&logo=docker&logoColor=3cff00"/>
+<img src="https://img.shields.io/badge/LINUX-0a0a0a?style=for-the-badge&logo=linux&logoColor=3cff00"/>
+<img src="https://img.shields.io/badge/GIT-0a0a0a?style=for-the-badge&logo=git&logoColor=3cff00"/>
+<img src="https://img.shields.io/badge/FIGMA-0a0a0a?style=for-the-badge&logo=figma&logoColor=3cff00"/>
 
 </div>
 
@@ -80,25 +79,12 @@
 
 <br/>
 
-<h2 align="center">Статистика</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kiberwitch&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9&ring_color=ffffff&border_color=30363d&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%B0" alt="GitHub stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=kiberwitch&background=000000&border=30363D&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&dates=8b949e" alt="Streak"/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiberwitch&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=3d3d3d&hide_border=false&border_color=30363d&custom_title=%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C" alt="Activity graph"/>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 **Есть задача? Напишите на Kwork, предложу решение, сроки и стоимость.**
 
-<a href="https://kwork.ru/user/kiberwitch"><img src="https://img.shields.io/badge/%D0%9E%D0%91%D0%A1%D0%A3%D0%94%D0%98%D0%A2%D0%AC_%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2-ffffff?style=for-the-badge&logoColor=black" alt="Обсудить проект"/></a>
+<a href="https://kwork.ru/user/kiberwitch"><img src="https://img.shields.io/badge/%D0%9E%D0%91%D0%A1%D0%A3%D0%94%D0%98%D0%A2%D0%AC_%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2-3cff00?style=for-the-badge" alt="Обсудить проект"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d3d3d,50:1c1c1c,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3cff00,40:0b2e00,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
