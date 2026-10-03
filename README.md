@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="KIBERWITCH"/>
+<img src="./banner.svg" width="100%" alt="KIBERWITCH"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=3CFF00&center=true&vCenter=true&width=760&lines=%D0%A1%D0%B0%D0%B9%D1%82%D1%8B+%D0%B8+%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B8+%D0%BF%D0%BE%D0%B4+%D0%BA%D0%BB%D1%8E%D1%87;%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BD%D0%B0+Vue+3;CRM%2C+%D0%B1%D0%BE%D1%82%D1%8B+%D0%B8+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" alt="typing"/>
 
@@ -31,7 +31,7 @@
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/sprout.svg" width="240" alt="pixel sprout"/>
+<img src="./sprout.svg" width="240" alt="pixel sprout"/>
 
 </td>
 </tr>
@@ -72,7 +72,7 @@
 
 **Есть задача? Напишите на Kwork, предложу решение, сроки и стоимость.**
 
-<a href="https://kwork.ru/user/kiberwitch"><img src="./assets/button.svg" width="380" alt="Обсудить проект"/></a>
+<a href="https://kwork.ru/user/kiberwitch"><img src="./button.svg" width="380" alt="Обсудить проект"/></a>
 
 
 </div>
